@@ -1,0 +1,13 @@
+BuckDNS Terms of Use — version 2026-09-27
+
+Buck Skeeters grants you permission to install and use BuckDNS at no charge for personal or business use. BuckDNS is proprietary software; this permission does not grant access to its source code or permission to redistribute, modify, sublicense or sell the software, except where applicable law permits it. Separately licensed components retain their own license terms and notices.
+
+Setup requires acceptance of these terms and the BuckDNS Privacy Notice. Selecting Agree records acceptance on this installation. Selecting Decline cancels setup and leaves DNS unavailable until acceptance.
+
+BuckDNS requires an internet check-in for update notifications and installation statistics. It sends a random installation ID, application version, operating system, and installation date. DNS queries, browsing history, and local network configuration are not collected.
+
+Check-ins occur daily when connectivity permits. There is no reporting toggle. Blocking this connection prevents reporting and update notifications. After acceptance, loss of connectivity does not disable DNS. Updates require administrator action; notifications do not authorize unattended installation or restart.
+
+You are responsible for administering your network, checking changes, maintaining backups and installing updates. BuckDNS is provided as available, without a promise of uninterrupted service, complete filtering or suitability for a particular purpose. Nothing in these terms excludes rights or obligations that applicable law does not allow to be excluded.
+
+Material changes to these terms will be presented for acceptance in a later software release. Contact: support@buckskeeters.com

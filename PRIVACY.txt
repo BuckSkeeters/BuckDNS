@@ -1,0 +1,13 @@
+BuckDNS Privacy Notice — version 2026-09-27
+
+Buck Skeeters receives required installation check-ins to provide update notifications and measure deployment of BuckDNS. The software sends a random installation ID, application version, operating system (Linux or Windows), and installation date. It does not send DNS queries, browsing history, client identities, local zones, local IP addresses, or network configuration to this service.
+
+A stable random ID lets us distinguish installations and count those active within the last 30 days. We record the first and most recent check-in time. Installation records expire after 365 days without a check-in; aggregate counts may be retained. Reinstallations, copied installations, offline systems and blocked connections can affect the counts.
+
+The connection necessarily exposes a public IP address to network infrastructure, including our hosting and delivery providers. Our installation-statistics database does not store IP addresses or browser identifiers. Operational infrastructure may process connection information for delivery and security. We do not describe the stable installation ID as anonymous.
+
+Installer delivery requests are counted by platform and release. These are download requests, not confirmed installations or unique people. No advertising cookies or tracking pixels are used by the reporting dashboard or update check-in service. The service does not sell the reported installation data or use it for advertising.
+
+Check-ins start only after agreement. There is no in-app reporting opt-out. Uninstalling stops future check-ins; disconnecting the service also prevents update notifications but does not interrupt DNS after acceptance. To request removal of a reporting record, contact support@buckskeeters.com with the installation ID shown in BuckDNS Settings. Proof of control may be required before removing a record.
+
+Contact: support@buckskeeters.com
