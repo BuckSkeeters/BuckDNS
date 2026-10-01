@@ -22,9 +22,39 @@ A fully recursive DNS server with network-wide ad and tracker blocking, local zo
 
 ## See BuckDNS
 
-![BuckDNS dashboard with illustrative demo data](assets/dashboard.png)
+Screenshots from the [BuckDNS website gallery](https://buckskeeters.com/apps/buckdns/#screenshots), using illustrative demonstration data.
 
-Screenshots contain illustrative demo data, not performance benchmarks. The [website carousel](https://buckskeeters.com/apps/buckdns/#screenshots) previews the latest interface; some screens include changes coming in the next packaged release.
+### Dashboard
+
+![BuckDNS dashboard screen with illustrative demo data](assets/dashboard.png)
+
+### Ad blocking
+
+![BuckDNS ad blocking screen with illustrative demo data](assets/02-ad-blocking.png)
+
+### Cache controls
+
+![BuckDNS cache controls screen with illustrative demo data](assets/03-cache-controls.png)
+
+### Clustering
+
+![BuckDNS clustering screen with illustrative demo data](assets/04-clustering.png)
+
+### Local zones
+
+![BuckDNS local zones screen with illustrative demo data](assets/05-local-zones.png)
+
+### About and support
+
+![BuckDNS about and support screen with illustrative demo data](assets/06-about-and-support.png)
+
+### Allowlist
+
+![Current BuckDNS allowed domains and subscription lists with demo data](assets/07-allowlist.png)
+
+### Settings
+
+![Current BuckDNS organized General settings with demo values](assets/08-settings.png)
 
 ## Install
 
