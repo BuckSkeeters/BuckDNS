@@ -26,7 +26,7 @@ Screenshots from the [BuckDNS website gallery](https://buckskeeters.com/apps/buc
 
 ### Dashboard
 
-![BuckDNS dashboard screen with illustrative demo data](assets/dashboard.png)
+![BuckDNS dashboard screen with illustrative demo data](assets/dashboard?v=20261001.png)
 
 ### Ad blocking
 
